@@ -1,0 +1,20 @@
+{
+    "terminal.integrated.fontFamily": "Noto Mono for Powerline",
+    "telemetry.enableTelemetry": false,
+    "go.formatTool": "goimports",
+    "window.zoomLevel": 0,
+    "python.jediEnabled": false,
+    "git.autofetch": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "go.liveErrors": {
+        "enabled": true,
+        "delay": 100
+    },
+    "go.lintTool": "revive",
+    "go.useLanguageServer": true,
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "files.autoSave": "off",
+    "workbench.tree.indent": 25,
+}
